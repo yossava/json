@@ -1,6 +1,6 @@
 {
-    "pair": "GBPJPY",
+    "pair": "EURUSD",
     "stop": "113.100",
-    "pip": "40",
+    "pip": "30",
     "direction": "buy"
 }
