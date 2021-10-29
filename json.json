@@ -1,6 +1,6 @@
 {
-    "pair": "GBPNZD",
+    "pair": "XAUUSD",
     "stop": "113.100",
-    "pip": "30",
+    "pip": "50",
     "direction": "buy"
 }
